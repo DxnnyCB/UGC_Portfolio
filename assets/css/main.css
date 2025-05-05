@@ -779,7 +779,7 @@ section,
 
 .hero-text {
   position: absolute;
-  top: 70%;
+  top: 80%;
   left: 50%;
   transform: translateX(-50%);
   width: max-content;
@@ -798,7 +798,7 @@ section,
 
 .hero-center-name {
   position: absolute;
-  top: 35%;
+  top: 32%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
@@ -807,10 +807,10 @@ section,
 
 .hero-center-name h1 {
   margin: 0;
-  font-size: 390px;
+  font-size: 370px;
   font-weight: 700;
   color: #F5F5F5;
-  font-family: 'League Spartan', sans-serif;
+  font-family: 'Cal Sans', sans-serif;
   position: relative;
 }
 
@@ -826,7 +826,7 @@ section,
 
 .hero-center-lastname {
   position: absolute;
-  top: 53%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
